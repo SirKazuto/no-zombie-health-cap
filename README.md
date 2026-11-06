@@ -3,7 +3,7 @@
 **BO7 Zombies mod for Kronos — Made by Kazuto**
 
 Removes the zombie health cap from Black Ops 7 Zombies. Zombie health keeps scaling with rounds using the game's own formula, instead of stopping at round 55.
-
+[BO7_Zombie_Health_No_Cap_V1_V2.xlsx](https://github.com/user-attachments/files/34495335/BO7_Zombie_Health_No_Cap_V1_V2.xlsx)
 
 ## Versions
 
@@ -98,4 +98,4 @@ Editing the file changes its hash; a Workshop install will then refuse it. Use a
 - **Nova v2** — idea (requested the mod) https://www.youtube.com/channel/UCRaMmJhzgQK6tD2IRUWy7gw
 - **MeowRaK** — concept and design details
 
-This code was AI-assisted.
+
