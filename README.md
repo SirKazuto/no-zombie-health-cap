@@ -50,7 +50,6 @@ Every release includes a spreadsheet with the health of 49 enemy types from roun
 | Cursed | Tested |
 | Mister Peeks Mayhem | Tested |
 | Survival | Tested |
-| Exfil | Tested |
 | Other Zombies modes | Supported, not tested |
 | Dead Ops Arcade | Not supported (separate health system) |
 
