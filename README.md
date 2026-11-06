@@ -95,7 +95,7 @@ Editing the file changes its hash; a Workshop install will then refuse it. Use a
 ## Credits
 
 - **Kazuto** — mod author
-- **𝑵𝒐𝒗𝒂 𝑽𝟐** — idea (requested the mod) https://www.youtube.com/channel/UCRaMmJhzgQK6tD2IRUWy7gw
+- **Nova v2** — idea (requested the mod) https://www.youtube.com/channel/UCRaMmJhzgQK6tD2IRUWy7gw
 - **MeowRaK** — concept and design details
 
 This code was AI-assisted.
