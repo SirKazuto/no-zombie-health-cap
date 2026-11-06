@@ -9,7 +9,7 @@ Removes the zombie health cap from Black Ops 7 Zombies. Zombie health keeps scal
 
 | Version | Rule |
 |---|---|
-| **v2** (latest) | No cap for regular enemies. Elites, specials and bosses stop at their round-55 health |
+| **v2** | No cap for regular enemies. Elites, specials and bosses stop at their round-55 health |
 | **v1** | No cap for every enemy |
 
 ### v2 — no cap
@@ -96,7 +96,7 @@ Editing the file changes its hash; a Workshop install will then refuse it. Use a
 ## Credits
 
 - **Kazuto** — mod author
-- **Nova v2** — idea (requested the mod)
+- ** [𝑵𝒐𝒗𝒂 𝑽𝟐]((https://www.youtube.com/channel/UCRaMmJhzgQK6tD2IRUWy7gw))** — idea (requested the mod)
 - **MeowRaK** — concept and design details
 
 This code was AI-assisted.
