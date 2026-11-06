@@ -3,7 +3,6 @@
 **BO7 Zombies mod for Kronos — Made by Kazuto**
 
 Removes the zombie health cap from Black Ops 7 Zombies. Zombie health keeps scaling with rounds using the game's own formula, instead of stopping at round 55.
-take a look at [BO7_Zombie_Health_No_Cap_V1_V2.xlsx](https://github.com/user-attachments/files/34495335/BO7_Zombie_Health_No_Cap_V1_V2.xlsx)
 
 ## Versions
 
@@ -35,6 +34,8 @@ Bosses have fixed health and are unchanged in both versions.
 | Warden (boss) | 2,400,000 | 2,400,000 | 2,400,000 | 2,400,000 | 2,400,000 | 2,400,000 |
 
 Every release includes a spreadsheet with the health of 49 enemy types from round 1 to 999.
+
+take a look at [BO7_Zombie_Health_No_Cap_V1_V2.xlsx](https://github.com/user-attachments/files/34495335/BO7_Zombie_Health_No_Cap_V1_V2.xlsx)
 
 ## What is not changed
 
